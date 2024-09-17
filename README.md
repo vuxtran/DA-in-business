@@ -1,4 +1,4 @@
-README FOR GROUP 4
+
 Project Overview
 Business Problems and Challenges
 In today's competitive business environment, identifying and prioritizing high-value customers who significantly contribute to revenue is a complex task. This complexity is compounded by a diverse customer base, requiring sophisticated analytical tools to discern patterns. Additionally, high customer churn rates and the lack of personalized customer experiences further impede business growth.
